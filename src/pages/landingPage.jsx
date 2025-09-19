@@ -82,7 +82,7 @@ const LandingPage = ({ onNavigate, onEnterApp }) => {
   }, []);
 
   return (
-    <div className="flex flex-col w-full relative min-h-screen">
+    <div className="flex flex-col w-full relative min-h-screen font-retro">
       <div className="retro-grid-bg"></div>
 
       <nav className="w-full p-4 flex justify-between items-center z-20">
