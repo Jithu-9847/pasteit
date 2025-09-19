@@ -237,7 +237,7 @@ const PasteArea = () => {
   };
 
   return (
-    <div className="bg-black text-white font-mono flex flex-col items-center justify-center min-h-screen p-4 relative overflow-hidden">
+    <div className="bg-black text-white font-retro flex flex-col items-center justify-center min-h-screen p-4 relative overflow-hidden">
       <style>
         {`
           .retro-grid-bg {
