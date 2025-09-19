@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        retro: ['"Bitcount Prop Single Ink", system-ui'], 
+        retro: ['"VT323", monospace'], 
       },
     },
   },
